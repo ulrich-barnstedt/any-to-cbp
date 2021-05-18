@@ -1,0 +1,4 @@
+{
+  "folders" : [".idea", "cmake-build-debug", ".git"],
+  "files" : ["CMakeLists.txt", ".gitignore"]
+}

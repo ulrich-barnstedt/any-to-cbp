@@ -1,0 +1,14 @@
+{
+  "zip" : "C:/Program Files/7-Zip/7z.exe",
+  "unitsInsertion" : ["CodeBlocks_project_file", "Project"],
+  "units" : {
+    "tagName" : "Unit",
+    "filenameProperty" : "filename",
+    "typeOverwrites" : {
+      "c" : { "Option" : {"_attributes" : { "compilerVar" : "CC" } } }
+    }
+  },
+  "namePath" : ["CodeBlocks_project_file", "Project", "Option", 0, "_attributes"],
+  "nameAttribute" : "title",
+  "tempDirectory" : "/temp/"
+}
