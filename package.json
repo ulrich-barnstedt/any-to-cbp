@@ -1,5 +1,5 @@
 {
-  "name": "conv_cbp_zip",
+  "name": "any-to-cbp",
   "version": "1.0.0",
   "description": "",
   "main": "convert.js",
