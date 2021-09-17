@@ -1,4 +1,4 @@
 {
-  "folders" : [".idea", "cmake-build-debug", ".git", "cmake-build-release"],
+  "folders" : [".idea", "cmake-build-debug", ".git", "cmake-build-release", "cmake-build-debug-coverage", "cmake-build-release-coverage"],
   "files" : ["CMakeLists.txt", ".gitignore"]
 }
